@@ -1,4 +1,4 @@
-# 📦 Package Routing Optimizer (WGUPS Project)
+#  Package Routing Optimizer (WGUPS Project)
 
 ## Overview
 This project simulates a **delivery routing system** for the Western Governors University Parcel Service (WGUPS).  
@@ -8,7 +8,7 @@ The program demonstrates skills in **data structures, algorithms, and optimizati
 
 ---
 
-## ✨ Features
+##  Features
 - Custom **hash table** for fast package lookups (O(1) average case).
 - Route optimization with a **greedy nearest-neighbor algorithm**.
 - Handles real-world delivery constraints:
@@ -20,7 +20,7 @@ The program demonstrates skills in **data structures, algorithms, and optimizati
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/package-routing-optimizer.git
